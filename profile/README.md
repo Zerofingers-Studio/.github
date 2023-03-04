@@ -1,8 +1,8 @@
-## Hi there 👋
+## Independent Game Development Studio
 
-### Independent Game Development Studio
+<img src="../logo_trasparent.gif" width="400" height="200" />
 
-#### About Us
+### About Us
 We’re zerofingers, an independent game development studio in Thessaloniki, Greece.
 Our fingers are our skills, that's why always ours team total fingers are always count down to zero.
 We are gamers and huge injoyers of Rust game, one of the most popular FPS survivors games in Steam.
