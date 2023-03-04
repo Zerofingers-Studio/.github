@@ -1,6 +1,6 @@
 ## Independent Game Development Studio
 
-<img src="../logo_trasparent.gif" width="400" height="200" />
+<img src="logo_trasparent.gif" width="400" height="200" />
 
 ### About Us
 We’re zerofingers, an independent game development studio in Thessaloniki, Greece.
